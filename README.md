@@ -44,33 +44,21 @@
 ### 🖥️:Processamento
 ### Antes de serem inseridas no modelo de classificação, as imagens passaram por processos cruciais de pré-processamento:
 
-
-
 <div align = "center">
 <img src="https://github.com/marizzxxxx/PDI-IFFAKE/blob/main/assets/1.png?raw=true">
 </div>
-<br>
-<br>
-<br>
-
 
 <div align = "center">
 <img src="https://github.com/marizzxxxx/PDI-IFFAKE/blob/main/assets/2.png?raw=true">
 </div>
 
-
-
 <div align = "center">
 <img src="https://github.com/marizzxxxx/PDI-IFFAKE/blob/main/assets/3.png?raw=true">
 </div>
 
-
-
 <div align = "center">
 <img src="https://github.com/marizzxxxx/PDI-IFFAKE/blob/main/assets/4.png?raw=true">
 </div>
-
-
 
 ### ✔️Conclusão
 ### Os resultados apresentaram uma aplicação funcional que permite aos usuários realizar uploads de imagens para verificação de autenticidade, recebendo respostas detalhadas do modelo, incluindo a probabilidade de ser real ou falso e visualizações destacando as regiões decisivas da imagem.
