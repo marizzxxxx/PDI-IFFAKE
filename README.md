@@ -60,5 +60,12 @@
 <img src="https://github.com/marizzxxxx/PDI-IFFAKE/blob/main/assets/4.png?raw=true">
 </div>
 
+### 👩🏻‍💻interface
+### Esse trecho configura a interface Gradio, definindo a função de previsão, os componentes de entrada e saída, e lançando a interface para interação. A interface Gradio permitirá que os usuários carreguem imagens, forneçam etiquetas verdadeiras e vejam as previsões do modelo, juntamente com visualizações da ativação da última camada convolucional para explicar as previsões.
+
+<div align = "center">
+<img src="https://github.com/marizzxxxx/PDI-IFFAKE/blob/main/assets/carbon%20(2).png?raw=true">
+</div>
+
 ### ✔️Conclusão
 ### Os resultados apresentaram uma aplicação funcional que permite aos usuários realizar uploads de imagens para verificação de autenticidade, recebendo respostas detalhadas do modelo, incluindo a probabilidade de ser real ou falso e visualizações destacando as regiões decisivas da imagem.
