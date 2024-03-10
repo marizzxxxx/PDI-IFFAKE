@@ -34,7 +34,7 @@
 
 
 ### 🛠Materiais e Métodos
-### O projeto foi elaborado utilizando a plataforma Google Colab e diversas bibliotecas essenciais, incluindo Gradio, torch, os, numpy, PIL, zipfile, cv2 e pytorch. Adicionalmente, foi incorporado um modelo pré-treinado, o InceptionResnetV1, disponível na plataforma HuggingFace [4], contribuindo para a eficácia e robustez do sistema.
+### O projeto foi elaborado utilizando a plataforma Google Colab e diversas bibliotecas essenciais, incluindo Gradio, torch, os, numpy, PIL, zipfile, cv2 e pytorch. Adicionalmente, foi incorporado um modelo pré-treinado, o InceptionResnetV1, disponível na plataforma HuggingFace, contribuindo para a eficácia e robustez do sistema.
 
 
 ### 📚Desenvolvimento
