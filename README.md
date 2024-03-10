@@ -3,7 +3,8 @@
 <br>Processamento digital de imagem 
   
 <br>Trabalho final
-<br> IFFAKE - Detector de fotos falsas 
+<br> DEEPFAKES:
+DESAFIOS, CONSEQUÊNCIAS E ESTRATÉGIAS DE DETECÇÃO 
 </div>
 
 
