@@ -5,6 +5,7 @@
 <br>Trabalho final
 <br> DEEPFAKES:
 DESAFIOS, CONSEQUÊNCIAS E ESTRATÉGIAS DE DETECÇÃO
+<br> 
 <br> 👨🏽‍💻 Jussivan Bezerra
 <br> 👨🏽‍💻 Marcos Willian
 <br> 👩🏻‍💻 Maria Eduarda Aires
